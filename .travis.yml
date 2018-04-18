@@ -1,0 +1,4 @@
+install: sudo apt-get install check
+language: c
+compiler: gcc
+script: make
